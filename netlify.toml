@@ -2,7 +2,7 @@
   functions = "functions"
 [functions]
   directory = "functions"
-  external_node_modules = ["express"]
+  external_node_modules = ["express", "telegraf"]
   node_bundler = "esbuild"
 
 
