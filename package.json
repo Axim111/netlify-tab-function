@@ -9,5 +9,9 @@
 	},
 	"keywords": [],
 	"author": "",
-	"license": "ISC"
+	"license": "ISC",
+	"dependencies": {
+		"@netlify/functions": "^2.6.0",
+		"@notionhq/client": "^2.2.15"
+	}
 }

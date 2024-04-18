@@ -1,0 +1,20 @@
+{
+	"siteId": "f387db37-39b4-4795-8120-4d0e8c2787ae",
+	"geolocation": {
+		"data": {
+			"city": "Magnitogorsk",
+			"country": {
+				"code": "RU",
+				"name": "Russia"
+			},
+			"subdivision": {
+				"code": "CHE",
+				"name": "Chelyabinsk Oblast"
+			},
+			"timezone": "Asia/Yekaterinburg",
+			"latitude": 53.4147,
+			"longitude": 59.0262
+		},
+		"timestamp": 1713392811967
+	}
+}
