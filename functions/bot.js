@@ -2,7 +2,7 @@ import express, { Router } from "express";
 import serverless from "serverless-http";
 
 import { Telegraf } from "telegraf"
-import 'dotenv/config'
+
 
 const token = '6459856771:AAEqvfXqWpADz7mgccCwOG6K4sJuvAfC9W8';
 
